@@ -1,6 +1,6 @@
 import pytest
 
-import answer
+from answer import tuple
 
 x, y, z, f, m, n = tuple()
 
